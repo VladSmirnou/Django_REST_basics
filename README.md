@@ -1,4 +1,4 @@
-# Django REST basic CRUD 
+# Basic Django REST CRUD
 
 ## The purpose
 Just to get used to Django REST framework
