@@ -1,0 +1,10 @@
+.venv
+.git
+.env-template
+.env
+.gitignore
+*/__pycache__
+*/migrations
+README.md
+runtime.txt
+Dockerfile
